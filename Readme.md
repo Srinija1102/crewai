@@ -19,7 +19,7 @@ CrewAI is a Python-based framework designed to manage and orchestrate autonomous
 ### Setup Steps
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Srinija1102/crewai.git
    cd crewai-main
    ```
 2. **Create a Virtual Environment:**
